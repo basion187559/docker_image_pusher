@@ -1,2 +1,2 @@
 #注释
-lmsysorg/sglang:v0.4.1.post7-cu121-srt
+qwenllm/qwenvl:2-cu121
